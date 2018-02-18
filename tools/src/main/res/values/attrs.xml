@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="KienRecyclerView">
+        <attr name="nkien_set_recyclable" format="boolean"/>
+
+        <attr name="nkien_set_has_fixed_size" format="boolean"/>
+
+        <!--default set linear layout manager by vertical offset-->
+        <attr name="nkien_set_llm_vertical" format="boolean"/>
+
+        <attr name="nkien_set_llm_horizontal" format="boolean"/>
+
+        <attr name="nkien_set_glm_vertical" format="boolean"/>
+
+        <attr name="nkien_set_glm_horizontal" format="boolean"/>
+
+        <!--number of columns grid layout-->
+        <attr name="nkien_set_glm_column" format="integer"/>
+    </declare-styleable>
+
+</resources>
