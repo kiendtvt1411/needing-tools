@@ -33,13 +33,13 @@ android {
 }
 
 publish {
-    groupId = 'com.github.stfalcon'
-    artifactId = 'contentmanager'
+    groupId = 'com.github.kiendtvt1411'
+    artifactId = 'needingtools'
     publishVersion = '0.1.1'
-    desc = 'Library that helps a few lines of code to get pictures and video from the android file system, or ures cloud, as well as the camera device.'
+    desc = 'Library that can help projects of Kien in the future'
     licences = ['Apache-2.0']
-    uploadName='ContentManager'
-    website = 'https://github.com/stfalcon-studio/ContentManager.git'
+    uploadName='NeedingTools'
+    website = 'https://github.com/kiendtvt1411/needing-tools'
 }
 
 dependencies {
